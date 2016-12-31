@@ -1,8 +1,8 @@
 package org.zsl.testmybatis;
 
 import com.alibaba.fastjson.JSON;
-import com.cn.hnust.pojo.User;
-import com.cn.hnust.service.IUserService;
+import com.ttan.pojo.User;
+import com.ttan.service.IUserService;
 import org.apache.log4j.Logger;
 import org.junit.Test;
 import org.junit.runner.RunWith;

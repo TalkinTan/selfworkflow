@@ -1,7 +1,8 @@
-package com.cn.hnust.controller;
+package com.ttan.controller;
 
-import com.cn.hnust.pojo.User;
-import com.cn.hnust.service.IUserService;
+import com.ttan.pojo.User;
+import com.ttan.service.IUserService;
+import com.ttan.service.IUserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

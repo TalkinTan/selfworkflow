@@ -1,8 +1,8 @@
-package com.cn.hnust.service.impl;
+package com.ttan.service.impl;
 
-import com.cn.hnust.dao.IUserDao;
-import com.cn.hnust.pojo.User;
-import com.cn.hnust.service.IUserService;
+import com.ttan.dao.IUserDao;
+import com.ttan.pojo.User;
+import com.ttan.service.IUserService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

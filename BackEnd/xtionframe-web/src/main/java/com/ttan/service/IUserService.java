@@ -1,6 +1,6 @@
-package com.cn.hnust.service;
+package com.ttan.service;
 
-import com.cn.hnust.pojo.User;
+import com.ttan.pojo.User;
 
 public interface IUserService {
 	public User getUserById(int userId);

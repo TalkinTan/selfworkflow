@@ -1,6 +1,6 @@
-package com.cn.hnust.dao;
+package com.ttan.dao;
 
-import com.cn.hnust.pojo.User;
+import com.ttan.pojo.User;
 
 public interface IUserDao {
     int deleteByPrimaryKey(Integer id);
